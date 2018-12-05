@@ -22,3 +22,6 @@ h6 {
 p {
     font-family: cursive;
 }
+ol li a {
+    text-decoration: none;
+}
