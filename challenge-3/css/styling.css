@@ -1,0 +1,67 @@
+.container {
+    width: 100%;
+    height: 50vh;
+    background: #333;
+}
+
+#box1 {
+    height: 200px;
+    width: 200px;
+    background: aqua;
+    float: left;
+}
+
+#box2 {
+    height: 200px;
+    width: 200px;
+    background: forestgreen;
+    float: left;
+}
+
+#box3 {
+    height: 200px;
+    width: 200px;
+    background: mistyrose;
+    float: left;
+}
+
+#box4 {
+    height: 200px;
+    width: 200px;
+    background: chocolate;
+    float: right;
+}
+
+#box1:hover {
+    background-color: yellow;
+}
+
+#box2:hover {
+    background-color: blueviolet;
+}
+
+#box3:hover {
+    background-color: tomato;
+    width: 600px;
+}
+
+#box4:hover {
+    background-color: salmon;
+    width: 50px;;
+}
+
+#box1:active {
+    background-color: black;
+}
+
+#box2:active {
+    background-color: red;
+}
+
+#box3:active {
+    background-color: olive;
+}
+
+#box4:active {
+    background-color: ivory;
+}
